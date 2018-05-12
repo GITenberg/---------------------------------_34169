@@ -1,0 +1,30 @@
+_repo: '---------------------------------_34169'
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Krystalles, Kostas
+    aliases:
+    - Krystallis, Kostas
+    - Κρυστάλλης, Κώστας
+    birthdate: 1868
+    deathdate: 1894
+    gutenberg_agent_id: '36014'
+    url: http://www.gutenberg.org/2009/agents/36014
+    wikipedia: http://el.wikipedia.org/wiki/%CE%9A%CF%8E%CF%83%CF%84%CE%B1%CF%82_%CE%9A%CF%81%CF%85%CF%83%CF%84%CE%AC%CE%BB%CE%BB%CE%B7%CF%82
+description: ''
+gutenberg_issued: '2010-10-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34169'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PA'
+- !lcsh 'Greek literature, Modern'
+title: Έργα Ποιήματα - Πεζά Τόμος Πρώτος
+url: http://www.gutenberg.org/ebooks/34169
